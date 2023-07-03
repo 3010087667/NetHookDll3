@@ -7,7 +7,8 @@ This is very good Network Hook.dll,it can connect IPv4<=>IPV6 Player in game.
 
 Chinese Version Readme  
 
-新的简单网络钩子,使用Easyhook作为基础库,拦截了ws2_32.dll,它可以使玩家们建立VLAN区域网，自动通过中心服务器P2P连接，如果支持请为我点Star.  
+C# 简单网络钩子,使用Easyhook作为基础库,拦截了ws2_32.dll, 劫持了游戏Game原网络函数.
 
+可以实现局域网跨平台通信,支持War3/Minecraft/Other Games;
 
- July 1, 2023
+ July 2, 2023
